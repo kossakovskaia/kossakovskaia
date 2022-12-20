@@ -2,19 +2,22 @@
 
 ### My name is Irina and I'm QA Engineer since 2017
 
-[<img align='left' alt='linkedin' width='22px' src='./images/linkedin.png'/>][linkedin]
-[linkedin]: https://www.linkedin.com/in/irina-kossakovskaia
 
-[<img align='left' alt='telegram' width='22px' src='./images/telegram.png'/>][telegram]
-[telegram]: https://t.me/kossakovskaya
 
-[<img align='left' alt='twitter' width='22px' src='./images/twitter.png'/>][twitter]
-[twitter]: https://twitter.com/ikossakovskaia
 
-###📫 Mail me at kossakovskaia@gmail.com
+<p>
+<a href="https://www.linkedin.com/in/irina-kossakovskaia" target="blank"><img align="center" src="https://github.com/kossakovskaia/kossakovskaia/blob/master/images/linkedin.png" alt="" width="21"/></a>
+&emsp;
+<a href="https://twitter.com/ikossakovskaia" target="blank"><img align="center" src="https://github.com/kossakovskaia/kossakovskaia/blob/master/images/twitter.png" alt="" width="21" /></a>
+&emsp;
+<a href="https://t.me/kossakovskaya" target="blank"><img align="center" src="https://github.com/kossakovskaia/kossakovskaia/blob/master/images/telegram.png" alt="" width="21" /></a>
+</p>
 
-- :computer: I’m currently learning Web Development at Yandex.Praktikum.
+📫 Mail me at kossakovskaia@gmail.com
 
+
+:computer: I’m currently learning Web Development at Yandex.Praktikum.
+### My current learning stack:
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
