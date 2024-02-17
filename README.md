@@ -1,6 +1,6 @@
 ## Hi 👋
 
-### My name is Irina and I'm QA Engineer since 2017
+### My name is Irina and I have been QA Engineer since 2017
 
 
 
@@ -16,8 +16,8 @@
 📫 Mail me at kossakovskaia@gmail.com
 
 
-:computer: I’m currently learning Web Development at Yandex.Praktikum.
-### My current learning stack:
+:computer: I’m currently working as a Senior QA Engineer.
+### My recent learning stack:
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -27,6 +27,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kossakovskaia&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kossakovskaia&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kossakovskaia&theme=github)
-
-
-[![codewars](https://www.codewars.com/users/kossakovskaia/badges/small)](https://www.codewars.com/users/kossakovskaia)
